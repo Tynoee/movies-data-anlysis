@@ -12,7 +12,7 @@ To perform data cleaning, exploration, and visualization on a real-world movie d
 
 ## 🗂️ Dataset
 
-- **Source**: [IMDb Movie Dataset on Kaggle](https://www.kaggle.com/)
+- **Source**: [IMDb Movie Dataset on Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download)
 - **Features include**: movie titles, genres, ratings, vote counts, runtime, and more.
 
 ## 🔧 Tools & Technologies
